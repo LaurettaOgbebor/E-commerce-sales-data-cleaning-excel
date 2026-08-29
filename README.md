@@ -1,4 +1,4 @@
-# E-commerce-sales-data-cleaning-excel
+# Task 1 - Lauretta Ogbebor
 Cleaned and standardized an e-commerce sales dataset in Excel with documented data quality improvements.
 
 # Project Overview
